@@ -1,9 +1,9 @@
 Just some notes about what's being built here-- later to be formalized into documention...
 
 ### Overview 
-Building a music streaming service/cooperative "on the blockchain". Still considering what stack is best for the job.
+Building a music streaming service/cooperative "on the blockchain". 
 Here's one lineup we have...
-- Coalaip data models for creative works and rights assingment/transfer
+- Coalaip data models for creative works and rights assignment/transfer
 - BigchainDB/IPDB for user and metadata storage
 - Tendermint for the consensus engine, decentralized application architecture
 - ?? for payments 
